@@ -4,6 +4,6 @@
 
 Adds 8mm of height
 
-Semi-slim +6mm adds of height
+Semi-slim adds 6mm
 
-Slim +4mm adds of height
+Slim adds 4mm
